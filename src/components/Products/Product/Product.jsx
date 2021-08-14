@@ -4,7 +4,7 @@ import { Card, CardMedia, CardContent, CardActions, Typography, IconButton } fro
 const Product = () => {
     return (
         <div>
-            
+            <div></div>
         </div>
     )
 }
