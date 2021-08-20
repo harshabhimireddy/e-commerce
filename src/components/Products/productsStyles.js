@@ -5,6 +5,8 @@ export default makeStyles((theme) => ({
   content: {
     flexGrow: 1,
     backgroundColor: theme.palette.background.default,
+    display: 'felx',
+    justifyContent: 'flex-center',
     padding: theme.spacing(3),
   },
   root: {
